@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650855450874",
+    "project_id": "admob-rizwan",
+    "storage_bucket": "admob-rizwan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650855450874:android:5daddc39f4f5d9048d6143",
+        "android_client_info": {
+          "package_name": "com.reactnativeaddmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650855450874-v6de56tlfanm3abdv1c4gqrcu8s3vhrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDbCJimenrE-QgvW5G2qZkCjSLwscgA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650855450874-v6de56tlfanm3abdv1c4gqrcu8s3vhrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
